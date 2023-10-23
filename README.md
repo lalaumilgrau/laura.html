@@ -37,9 +37,9 @@ Em 1925 realizando uma campanha brilhante, conquistava seu primeiro título de C
 
     <ul>
     <h4> titulo lista</h4>
-    <li class="lista"> item 1</li>
-    <li class="lista"> item 2</li>
-    <li class="lista"> item 3</li>
+    <li class="lista"> loja furaço </li>
+    <li class="lista"> cao de mascote</li>
+    <li class="lista"> rubro negro</li>
 </ul>
 
 </body>
